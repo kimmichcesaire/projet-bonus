@@ -1,0 +1,23 @@
+{
+  "name": "projet-citation-avancee",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kimmichcesaire/projet-bonus#readme",
+  "bugs": {
+    "url": "https://github.com/kimmichcesaire/projet-bonus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimmichcesaire/projet-bonus.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
